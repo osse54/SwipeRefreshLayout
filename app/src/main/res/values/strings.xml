@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwipeRefreshLayout</string>
+    <string name="refresh_count_text">새로고침 횟수\n</string>
+</resources>
