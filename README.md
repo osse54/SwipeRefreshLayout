@@ -3,11 +3,14 @@
 
 ## 라이브러리 추가
 모듈 build.gradle 파일에 SwipeRefreshLayout 라이브러리를 추가한다.
+
+<pre>
 dependencies {
     ...
     // Swipe Refresh Layout
     implementation'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
 }
+</pre>
 
 ## 공식 문서
 ### 새로고침 관련 문서
