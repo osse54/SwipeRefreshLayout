@@ -9,6 +9,8 @@ dependencies {
     implementation'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
 }
 
-##공식 문서
-새로고침 관련 문서 : https://developer.android.com/training/swipe/add-swipe-interface?hl=ko
-SwipeRefreshLayout 문서: https://developer.android.com/reference/androidx/swiperefreshlayout/widget/SwipeRefreshLayout
+## 공식 문서
+### 새로고침 관련 문서
+https://developer.android.com/training/swipe/add-swipe-interface?hl=ko
+### SwipeRefreshLayout문서
+https://developer.android.com/reference/androidx/swiperefreshlayout/widget/SwipeRefreshLayout
